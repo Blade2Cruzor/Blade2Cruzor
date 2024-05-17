@@ -1,5 +1,6 @@
-### Hi 👋 I'm Bhuvanesh 
-I'm self taught passionate developer<br>i like to experiment with new technologies and building small projects<br>Code lover, bug buster, and algorithm aficionado
+![welcomepagegithub](https://github.com/Blade2Cruzor/Blade2Cruzor/assets/113835673/878acce0-3856-44b4-bf20-377b8cbd185e)<br/>
+### Hi 🙋‍♂️ I'm Bhuvanesh 
+A self taught passionate developer<br>i like to experiment with new technologies and building small projects<br>Code lover, bug buster, and algorithm aficionado
 
 <!--
 **Blade2Cruzor/Blade2Cruzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
