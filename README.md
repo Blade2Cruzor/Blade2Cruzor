@@ -1,4 +1,4 @@
-![welcomepagegithub](https://github.com/Blade2Cruzor/Blade2Cruzor/assets/113835673/878acce0-3856-44b4-bf20-377b8cbd185e)<br/>
+![welcomepagegithub (1)](https://github.com/Blade2Cruzor/Blade2Cruzor/assets/113835673/5fc24a6f-bde3-49fc-891d-701ac3c781a3)<br/>
 ### Hi 🙋‍♂️ I'm Bhuvanesh 
 A self taught passionate developer<br>i like to experiment with new technologies and building small projects<br>Code lover, bug buster, and algorithm aficionado
 
