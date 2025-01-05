@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 😂 Random Meme
-<img src='https://meme-gallery-ten.vercel.app/api/v1/random-meme' style="height: 400px;"/>
-
+<!--<img src='https://meme-gallery-ten.vercel.app/api/v1/random-meme' style="height: 400px;"/>-->
+<img src = 'https://preview.redd.it/2wpfufhz8p751.jpg?width=640&crop=smart&auto=webp&s=dab7d5eba791f3a884b0c0614630c99e38c46c4d' style="height : 400px;"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=Blade2Cruzor&icon=0&color=0)](https://visitcount.itsvg.in)
+[![visitors count](https://visitcount.itsvg.in/api?id=Blade2Cruzor&icon=0&color=0)](https://visitcount.itsvg.in)
 
