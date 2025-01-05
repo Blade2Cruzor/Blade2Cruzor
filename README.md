@@ -43,7 +43,5 @@ Here are some ideas to get you started:
 
 
 ### 😂 Random Meme
-<!--<img src='https://meme-gallery-ten.vercel.app/api/v1/random-meme' style="height: 400px;"/>-->
-<img src = 'https://preview.redd.it/2wpfufhz8p751.jpg?width=640&crop=smart&auto=webp&s=dab7d5eba791f3a884b0c0614630c99e38c46c4d' style="height : 400px;"/>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMD6-4BdVrXg8ie3WXh1BUf7PMSnr8ZvfgOg&s" alt="Developer Struggles" />
 ---
