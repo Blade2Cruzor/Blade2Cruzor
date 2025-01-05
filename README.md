@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br>
  
   - Here my **DISCORD** invite link **[JOIN HERE!](https://discord.com/invite/HSbVguFs)**
-  - I do have some interest in movies and anime do bing me in **[Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)**
+  - I do have some interest in movies and anime do bing me in [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/bladecruzor/)
 
 
  <p>📊 GitHub Stats:</p>
