@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 
 ### 😂 Random Meme
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMD6-4BdVrXg8ie3WXh1BUf7PMSnr8ZvfgOg&s" alt="Developer Struggles" />
+
 ---
