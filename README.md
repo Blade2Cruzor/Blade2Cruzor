@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abc&label=Profile%20views&color=0e75b6&style=flat" alt="abc" /> </p>
 <details>
   <summary>Some more about me-e-e</summary>
   <br>
@@ -41,6 +42,5 @@ Here are some ideas to get you started:
 ### 😂 Random Meme
 <!--<img src='https://meme-gallery-ten.vercel.app/api/v1/random-meme' style="height: 400px;"/>-->
 <img src = 'https://preview.redd.it/2wpfufhz8p751.jpg?width=640&crop=smart&auto=webp&s=dab7d5eba791f3a884b0c0614630c99e38c46c4d' style="height : 400px;"/>
----
-[![visitors count](https://visitcount.itsvg.in/api?id=Blade2Cruzor&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
